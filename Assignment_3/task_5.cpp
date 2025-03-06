@@ -1,16 +1,3 @@
-/*
-    task 05
-
-    لديك 4 متغيرات نوعهم char ونريد طباعة ال ASCII Value الخاصة بهم
-    نحتاج لأن تكون الرسالة كما في المثال ولا تكتب القيمة بيدك وإستخدم المتغيرات
-
-    // Output Needed
-    "ASCII Value of ~ Is 126"
-    "ASCII Value of & Is 38"
-    "ASCII Value of % Is 37"
-    "ASCII Value of A Is 65"
-*/
-
 #include <iostream>
 using namespace std;
 

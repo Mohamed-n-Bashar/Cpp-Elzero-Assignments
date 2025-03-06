@@ -14,9 +14,3 @@ int main()
   cout << age_in_years;
   return 0;
 }
-
-
-/*
-output 
-40
-*/

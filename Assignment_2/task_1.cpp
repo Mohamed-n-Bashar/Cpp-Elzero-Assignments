@@ -24,11 +24,3 @@ int main()
 
   return 0;
 }
-
-
-
-// Output
-
-// "My Age Is: 40"
-// "10 Years Ago My Age Was: 30"
-// "After 10 Years My Age Will Be: 50"

@@ -1,23 +1,3 @@
-/*
-    task 06
-
-    لديك 6 متغيرات نوعهم int ونريد طباعة ال Character الذي يمثله هذا الرقم
-    نحتاج لأن تكون الرسالة كما في المثال ولا تكتب القيمة بيدك وإستخدم المتغيرات
-    في السطر الأخير إستخدم قيم المتغيرات لتخرج بالكلمة المطلوبة "Elzero
-
-    // Output Needed
-    "Character Of This ASCII Value 69 Is E"
-    "Character Of This ASCII Value 108 Is l"
-    "Character Of This ASCII Value 122 Is z"
-    "Character Of This ASCII Value 101 Is e"
-    "Character Of This ASCII Value 114 Is r"
-    "Character Of This ASCII Value 111 Is o"
-
-    // Output Needed In Last Line
-    "Elzero"
-    
-*/
-
 #include <iostream>
 using namespace std;
 

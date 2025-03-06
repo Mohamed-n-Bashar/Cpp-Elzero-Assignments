@@ -10,10 +10,3 @@ int main()
   cout << "Sum Of All Number Is: " << a + b + c;
   return 0;
 }
-
-
-
-
-// Output
-
-// "Sum Of All Number Is: 100"

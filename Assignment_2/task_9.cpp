@@ -11,11 +11,3 @@ int main()
   cout << num*num << " = [" << num << " * " << num << "]";
   return 0;
 }
-
-
-/*
-EX:
-    // Enter number
-    // Num 10
-    // Needed Output 100 [10 * 10]
-*/

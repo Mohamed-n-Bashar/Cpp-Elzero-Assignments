@@ -13,12 +13,3 @@ int main()
   cout << a + b + c; // 300
   return 0;
 }
-
-
-
-
-/*
-    output
-    
-    300
-*/

@@ -12,11 +12,3 @@ int main()
   cout << num1*num2 << " = [" << num1 << " * " << num2 << "]";
   return 0;
 }
-
-
-
-/*
-    // Number One => 10
-    // Number Two => 100
-    // Needed Output 1000 [10 * 100]
-*/

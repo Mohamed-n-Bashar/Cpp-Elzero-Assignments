@@ -21,6 +21,7 @@ int main()
 {
   play();
   return 0;
+<<<<<<< HEAD
 }
 
 
@@ -28,3 +29,6 @@ int main()
 output
 100
 */
+=======
+}
+>>>>>>> 8460753 (Edit Assignments 1 ~ 3)
