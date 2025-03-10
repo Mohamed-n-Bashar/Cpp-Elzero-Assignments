@@ -24,8 +24,8 @@ This repository contains all my solutions for the **Elzero Web School** C++ cour
 
 ## 🔗 Important Links
 
-- 📺 [**Course Playlist**:](#) *(https://www.youtube.com/playlist?list=PLDoPjvoNmBAwy-rS6WKudwVeb_x63EzgS)*
-- 📜 [**Assignments File**:](#) *(https://elzero.org/study/cplusplus-study-plan/)*
+- 📺 [**Course Playlist**](https://www.youtube.com/playlist?list=PLDoPjvoNmBAwy-rS6WKudwVeb_x63EzgS)
+- 📜 [**Assignments File**](https://elzero.org/study/cplusplus-study-plan/)
 
 ---
 
@@ -57,7 +57,7 @@ You can run the codes using any **C++ compiler** such as `g++`:
 | Week 2️⃣ | 09 → 15 | 11 Assignments | [🔗 Week_02](https://elzero.org/cpp-assignments-lesson-9-to-15/) |
 | Week 3️⃣ | 16 → 23 | 12 Assignments | [🔗 Week_03](https://elzero.org/cpp-assignments-lesson-16-to-23/) |
 | Week 4️⃣ | 24 → 29 | 8 Assignments | [🔗 Week_04](https://elzero.org/cpp-assignments-lesson-24-to-29/) |
-| Week 5️⃣ | 30 → 37 | 10 Assignments | [🔗 Week_05](https://elzero.org/cpp-assignments-lesson-30-to-35/) |
+| Week 5️⃣ | 30 → 37 | 10 Assignments *(Divided into two parts)* | [🔗 Week_05](https://elzero.org/cpp-assignments-lesson-30-to-35/) / [🔗 Part 2](https://elzero.org/cpp-assignments-lesson-36-to-37/) |
 | Week 6️⃣ | 38 → 46 | 13 Assignments | [🔗 Week_06](https://elzero.org/cpp-assignments-lesson-38-to-46/) |
 | Week 7️⃣ | 47 → 54 | 20 Assignments | [🔗 Week_07](https://elzero.org/cpp-assignments-lesson-47-to-54/) |
 | Week 8️⃣ | 55 → 66 | 17 Assignments | [🔗 Week_08](https://elzero.org/cpp-assignments-lesson-55-to-66/) |
@@ -82,3 +82,4 @@ int main() {
 ## 📞 Contact Information
 
 - **LinkedIn**: [Mohamed Bashar](https://www.linkedin.com/in/mohamed-bashar-806046248/)
+- **Telegram**: [Mohamed Bashar](https://t.me/Mohamed_Nabil_Bashar)
