@@ -81,5 +81,5 @@ int main() {
 
 ## 📞 Contact Information
 
-- **LinkedIn**: [Mohamed Bashar](https://www.linkedin.com/in/mohamed-bashar-806046248/)
-- **Telegram**: [Mohamed Bashar](https://t.me/Mohamed_Nabil_Bashar)
+- [**LinkedIn**](https://www.linkedin.com/in/mohamed-bashar-806046248/)
+- [**Telegram**](https://t.me/Mohamed_Nabil_Bashar)
